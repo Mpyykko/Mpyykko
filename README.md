@@ -14,12 +14,12 @@ Olen toisen vuoden ohjelmistokehityksen opiskelija Esedussa, joka on erityisen k
 <h2 align="center">Projektit</h2>
 
   
-- **[Kouluprojektit](https://github.com/Mpyykko/JS):** JavaScript-projekteja.
+- **[Kouluprojektit](https://mpyykko.github.io/JS/):** JavaScript-projekteja.
 
 
 
     
-- **[Navigointisovellus](https://github.com/Toivanen03/Maisemanavigaattori):** Tiimityönä Simo Toivasen kanssa tehty navigointisovellus.
+- **[Navigointisovellus](https://toivanen03.github.io/Maisemanavigaattori/):** Tiimityönä Simo Toivasen kanssa tehty navigointisovellus.
 
 
 

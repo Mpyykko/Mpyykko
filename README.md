@@ -46,6 +46,12 @@ Olen toisen vuoden ohjelmistokehityksen opiskelija Esedussa, joka on erityisen k
       <img src="https://img.icons8.com/ios-filled/452/github.png" width="40" height="40" />
     </a>
   </div>
+  
+  <div align="center">
+    <a href="https://www.micco.fi">
+     micco.fi
+    </a>
+  </div>
 
   </div>
 

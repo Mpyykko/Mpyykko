@@ -1,31 +1,40 @@
+<h1 align="center"> 👋 Hi there! </h1>
 
-<h1 align="center">👋 Hello! 👋 </h1>
+💻 I'm a coding student passionate about building **modern web applications**, learning new technologies, and solving problems with code.  
+🌱 Currently exploring **React, Node.js, Python, data analytics**, and improving my **UI/UX design** skills.  
+✨ My goal is to combine strong **technical expertise** with **design thinking** to create applications that are both powerful and user-friendly.  
 
+---
 
-Olen toisen vuoden ohjelmistokehityksen opiskelija Esedussa, joka on erityisen kiinnostunut web-kehityksestä ja uusista innovatiivisista ratkaisuista. Opiskelen jatkuvasti uusia teknologioita ja kehitysmenetelmiä, ja pyrin soveltamaan oppimaani käytännön projekteihin.
+<h2 align="center"> Skills & Tools</h2>
 
-<h2 align="center">Taitoni</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- **Web-kehitys**: Frontend ja backend -teknologiat, React, Node.js, ja MongoDB.
-- **Ohjelmointikielet**: JavaScript, TypeScript, HTML, CSS, ja muut modernit web-kehityksen työkalut.
-- **Muut työkalut:** VS Code,Git, AI
+---
 
-
-<h2 align="center">Projektit</h2>
+<h2 align="center">Projects</h2>
 
   
-- **[Kouluprojektit](https://mpyykko.github.io/JS/):** JavaScript-projekteja.
+- **[School projects](https://mpyykko.github.io/JS/):** JavaScript school works.
 
 
 
     
-- **[Navigointisovellus](https://toivanen03.github.io/Maisemanavigaattori/):** Tiimityönä Simo Toivasen kanssa tehty navigointisovellus.
+- **[Navigation application](https://toivanen03.github.io/Maisemanavigaattori/):** Navigation app made with Simo Toivanen
 
 
 
 
   
-<h2 align="center">Ota yhteyttä</h2>
+<h2 align="center">Contact me</h2>
 
 <div align="center">
     <a href="mailto:pyykkonenmikko@gmail.com">

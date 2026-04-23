@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi there! </h1>
 
 💻 I'm a coding student passionate about building **modern web applications**, learning new technologies, and solving problems with code.  
-🌱 Currently exploring **React, Node.js, Python, data analytics**, and improving my **UI/UX design** skills.  
+🌱 Currently exploring **React, Node.js, TypeScript, data analytics**, and improving my **UI/UX design** skills.  
 ✨ My goal is to combine strong **technical expertise** with **design thinking** to create applications that are both powerful and user-friendly.  
 
 ---

@@ -23,7 +23,7 @@
 <h2 align="center">Projects</h2>
 
   
-- **[School projects](https://mpyykko.github.io/JS/):** JavaScript school works.
+- **[School projects](https://www.micco.fi/projects):** JavaScript school works.
 
 
 
